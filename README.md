@@ -1,6 +1,6 @@
 # Hops
 
-# Frog Hopping Problem Solution
+# Hops
 
 ## Problem Description
 A family of frogs in a pond are traveling towards dry land to hibernate by hopping across a trail of `N` lily pads, numbered from `1` to `N` in order. 
