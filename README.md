@@ -25,7 +25,7 @@ Determine the **minimum number of seconds** required for all frogs to reach the 
 - All `P[i]` are distinct
 
 ## Abacus Analogy Insight
-The solution mirrors how abacus beads slide along rods (focus on Frog's position rather than individual Frog to identify this pattern):
+The solution mirrors how abacus beads slide along rods (focus on Frog's position rather than the individual Frog to identify this pattern):
 - Lily pads = bead positions
 - Frogs = beads
 - Shore = abacus frame edge
